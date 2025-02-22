@@ -56,8 +56,8 @@ def generate_markdown(df, output_file):
     return markdown_content
 
 if __name__ == "__main__":
-    csv_file = r"C:\\Users\\user\\Dropbox\\Mich\\Projects\\Africa Top Rated Developers\\data\\final datasets\\finalists-data.csv"  # Input file
-    output_file = r"C:\\Users\\user\\Dropbox\\Mich\\Projects\\Africa Top Rated Developers\\data\\final datasets\\awesome_list.md"  # Markdown Output file
+    csv_file = r"ADD_PATH_HERE\finalists-data.csv"  # Input file
+    output_file = r"ADD_PATH_HERE\awesome_list.md"  # Markdown Output file
     
     df = load_projects(csv_file)
     generate_markdown(df, output_file)
