@@ -1,6 +1,8 @@
 # Awesome African Open-Source Projects
 
-A curated list of open-source projects made by African developers.
+A curated list of 300+ awesome open-source projects made by African developers.
+
+If you would like to contribute, please check out our [Contribution Guide](CONTRIBUTING.md).
 
 ## Contents
 - [Python](#python)
