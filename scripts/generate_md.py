@@ -1,5 +1,6 @@
 import pandas as pd
 import markdown
+import math
 
 CATEGORY_MAPPING = {
     "C++": "C",
@@ -30,13 +31,17 @@ def load_projects(csv_file):
     return df
 
 def generate_markdown(df, output_file):
+    total_projects = len(df)
+    rounded_total = round(total_projects, -2)  # Round to the nearest hundred
+    
     # Group by category and sort by category size, excluding 'Other'
     category_counts = df['category'].value_counts()
     sorted_categories = [cat for cat in category_counts.index if cat != "Other"]
     sorted_categories.append("Other")  # Place 'Other' at the end
     
     markdown_content = "# Awesome African Open-Source Projects\n\n"
-    markdown_content += "A curated list of awesome open-source projects made by African developers.\n\n"
+    markdown_content += f"A curated list of {rounded_total}+ awesome open-source projects made by African developers.\n\n"
+    markdown_content += "If you would like to contribute, please check out our [Contribution Guide](docs/CONTRIBUTING.md).\n\n"
     markdown_content += "## Contents\n"
     for category in sorted_categories:
         markdown_content += f"- [{category}](#{category.lower().replace(' ', '-')})\n"
@@ -56,8 +61,8 @@ def generate_markdown(df, output_file):
     return markdown_content
 
 if __name__ == "__main__":
-    csv_file = r"ADD_PATH_HERE\finalists-data.csv"  # Input file
-    output_file = r"ADD_PATH_HERE\awesome_list.md"  # Markdown Output file
+    csv_file = r"data/finalists-data.csv"  # Input file
+    output_file = "/README.md"  # Markdown Output file
     
     df = load_projects(csv_file)
     generate_markdown(df, output_file)
