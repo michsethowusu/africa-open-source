@@ -1,304 +1,186 @@
-﻿category,name,description,stars,url
-AutoIt,OffensiveAutoIt,Offensive tooling notes and experiments in AutoIt v3 (https://www.autoitscript.com/site/autoit/),430,https://github.com/V1V1/OffensiveAutoIt
-Blade,bladewind,BladewindUI is a collection of elegant Laravel blade-based UI components spiced with TailwindCSS and Javascript.,582,https://github.com/mkocansey/bladewind
-C,Cub3d-Advanced-Raycasting,"#Cub3D: This project is a 3D game created from scratch written in C using an old graphic library mini-libx, presented with an old technology raycasting to make the 3D feeling looks pretty good",204,https://github.com/ael-bekk/Cub3d-Advanced-Raycasting
-C,SQLiteForExcel,A lightweight wrapper to give access to the SQLite3 library from VBA.,265,https://github.com/govert/SQLiteForExcel
-C,macbook12-spi-driver,"WIP input driver for the SPI touchpad / keyboard found in the 12"" MacBook (MacBook8,1 + MacBook9,1)",303,https://github.com/cb22/macbook12-spi-driver
-C,esp32-c3-mini,LVGL UI for ESP32 C3 mini 240*240 board (ESP32-2424S012),308,https://github.com/fbiego/esp32-c3-mini
-C,Aquila,AquilaOS: UNIX-like Operating System,478,https://github.com/thethumbler/Aquila
-C,OTE,OSINT Template Engine,534,https://github.com/3nock/OTE
-C,apache-ultimate-bad-bot-blocker,"Apache Block Bad Bots, (Referer) Spam Referrer Blocker, Vulnerability Scanners, Malware, Adware, Ransomware, Malicious Sites, Wordpress Theme Detectors and Fail2Ban Jail for Repeat Offenders",848,https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
-C#,shortid,A csharp library to generate short id's. they can be used as primary keys or unique identifiers,233,https://github.com/bolorundurowb/shortid
-C#,creature-creator,"Create your own creatures to explore online worlds with friends and collect new parts to upgrade your stats and abilities! Complete quests, battle enemies, challenge friends to minigames, or just h…",235,https://github.com/daniellochner/creature-creator
-C#,dotenv.net,A library to read .env files in a .NET Core environment,239,https://github.com/bolorundurowb/dotenv.net
-C#,SignalChat,WPF-MVVM instant messaging application using SignalR,265,https://github.com/MeshackMusundi/SignalChat
-C#,UIElements,Various scripts related to Unity UI Toolkit (UIElements).,377,https://github.com/plyoung/UIElements
-C#,FineCodeCoverage,Visualize unit test code coverage easily for free in Visual Studio Community Edition (and other editions too),549,https://github.com/FortuneN/FineCodeCoverage
-C++,socket-cpp,Simple socket wrapper in C++ (with SSL/TLS support),203,https://github.com/embeddedmz/socket-cpp
-C++,ftpclient-cpp,C++ client for making FTP requests,216,https://github.com/embeddedmz/ftpclient-cpp
-C++,ESP32_BLE_OTA_Arduino,OTA update on ESP32 via BLE,232,https://github.com/fbiego/ESP32_BLE_OTA_Arduino
-C++,ESP32Time,An Arduino library for setting and retrieving internal RTC time on ESP32 boards,236,https://github.com/fbiego/ESP32Time
-C++,HeapCrypt,Encypting the Heap while sleeping by hooking and modifying Sleep with our own sleep that encrypts the heap,241,https://github.com/SaadAhla/HeapCrypt
-C++,RendererEngine,3D Renderer Engine builds with Vulkan and C++ 20,265,https://github.com/JeanPhilippeKernel/RendererEngine
-C++,NTDLLReflection,"Bypass Userland EDR hooks by Loading Reflective Ntdll in memory from a remote server based on Windows ReleaseID to avoid opening a handle to ntdll , and trigger exported APIs from the export table",292,https://github.com/SaadAhla/NTDLLReflection
-C++,UnhookingPatch,"Bypass EDR Hooks by patching NT API stub, and resolving SSNs and syscall instructions at runtime",302,https://github.com/SaadAhla/UnhookingPatch
-C++,D1rkLdr,"Shellcode Loader with Indirect Dynamic syscall Implementation , shellcode in MAC format, API resolving from PEB, Syscall calll and syscall instruction address resolving at run time",309,https://github.com/SaadAhla/D1rkLdr
-C++,UltimateStarterKit,The Ultimate Starter Kit plugin to speed up development of Unreal Engine games,324,https://github.com/hfjooste/UltimateStarterKit
-C++,Notepad3,Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:,341,https://github.com/rizonesoft/Notepad3
-C++,TakeMyRDP,"A keystroke logger targeting the Remote Desktop Protocol (RDP) related processes, It utilizes a low-level keyboard input hook, allowing it to record keystrokes in certain contexts (like in mstsc.ex…",385,https://github.com/SaadAhla/TakeMyRDP
-C++,Shellcode-Hide,"This repo contains : simple shellcode Loader , Encoders (base64 - custom - UUID - IPv4 - MAC), Encryptors (AES), Fileless Loader (Winhttp, socket)",412,https://github.com/SaadAhla/Shellcode-Hide
-C++,foo_openlyrics,An open-source lyric display panel for foobar2000,473,https://github.com/jacquesh/foo_openlyrics
-C++,flutter-open-ui,"Flutter open-source project that's all about pushing the boundaries of User Interfaces! 🌟✨ If you're a Flutter enthusiast or just someone who appreciates stunning UI/UX, this project is tailor-mad…",487,https://github.com/yunweneric/flutter-open-ui
-C++,FilelessPELoader,"Loading Remote AES Encrypted PE in memory , Decrypted it and run it",914,https://github.com/SaadAhla/FilelessPELoader
-Clojure,pcp,PCP: Clojure Processor -- A Clojure replacement for PHP,234,https://github.com/alekcz/pcp
-CSS,support-palestine-banner,Simply setup banner for websites to show support for Palestinians.,209,https://github.com/Safouene1/support-palestine-banner
-CSS,wenk,😉 Lightweight pure CSS tooltip for the greater good,689,https://github.com/tiaanduplessis/wenk
-Cuda,GPU,100 days of building Cuda kernels!,221,https://github.com/a-hamdi/GPU
-Dart,google_map_location_picker,🌍 Map location picker component for flutter Based on google_maps_flutter,206,https://github.com/humazed/google_map_location_picker
-Dart,Tasky-Mobile-App,"A task manager built with Flutter, Serverless, Postgres, Firebase",212,https://github.com/iamEtornam/Tasky-Mobile-App
-Dart,flutter-reaction-button,"Flutter Reaction Button is a customizable Flutter package that allows you to easily create interactive buttons with reaction emojis, similar to Facebook's iconic reaction buttons.",217,https://github.com/GeekAbdelouahed/flutter-reaction-button
-Dart,Tik-Tok-App-Clone-Flutter,A clone of the TikTok App using Flutter.,217,https://github.com/mcofie/Tik-Tok-App-Clone-Flutter
-Dart,groceries-shopping-flutter-app,"(UPGRADED TO FLUTTER 3.24.0 🎉) This project is a simple implementation for an existing, amazing, and exciting UI/UX design.",236,https://github.com/AhmedAbouelkher/groceries-shopping-flutter-app
-Dart,david-legend.github.io,"I present to you the version 2 of my portfolio website https://davidcobbina.com . The design is elegant, simple minimal and beautiful. It was crafted with love using flutter. Find the first version…",244,https://github.com/david-legend/david-legend.github.io
-Dart,nimbus,Nimbus is a beautiful portfolio design built using flutter,256,https://github.com/david-legend/nimbus
-Dart,flutter-clean-architecture-instagram,Instagram with clean architecture using flutter and firebase. almost include all functions on Instagram,266,https://github.com/AhmedAbdoElhawary/flutter-clean-architecture-instagram
-Dart,flixquest,Open-source Android app made with Flutter with functionality of watching movies and tv series for free.,297,https://github.com/BeamlakAschalew/flixquest
-Dart,dropdown_button2,Flutter's core Dropdown Button widget with steady dropdown menu and many other features.,300,https://github.com/AhmedLSayed9/dropdown_button2
-Dart,flutter_drawing_board,A simple drawing app made with Flutter,305,https://github.com/JideGuru/flutter_drawing_board
-Dart,flutter_catalog,"",306,https://github.com/david-legend/flutter_catalog
-Dart,FlutterTravel,Flutter representation of a Travel App Concept.,315,https://github.com/JideGuru/FlutterTravel
-Dart,foodybite,A beautiful restaurant app with great and exquisite UI for foodies.,323,https://github.com/david-legend/foodybite
-Dart,boxtout,An open source food delivery product and service that will be developed on the FilledStacks YouTube channel,417,https://github.com/FilledStacks/boxtout
-Dart,flutter-ui-kits,Free Flutter UI Kits developed by Olayemi Garuba,433,https://github.com/olayemii/flutter-ui-kits
-Dart,story_view,Story view for apps with stories.,447,https://github.com/blackmann/story_view
-Dart,flutter_advance,"A collection of custom/advanced Flutter design, animations and UI",451,https://github.com/cscoderr/flutter_advance
-Dart,flutter_zoom_drawer,A Flutter package with custom implementation of Drawer,467,https://github.com/medyas/flutter_zoom_drawer
-Dart,FileX,Simple File Explorer made with Flutter(WIP),477,https://github.com/JideGuru/FileX
-Dart,FlutterFoodybite,Flutter representation of a Restaurant app UI.,477,https://github.com/JideGuru/FlutterFoodybite
-Dart,responsive_builder,A set of widgets to make responsive UI building in flutter more readable,505,https://github.com/FilledStacks/responsive_builder
-Dart,FlutterFurnitureAppUI,Flutter representation of a furniture app UI,509,https://github.com/JideGuru/FlutterFurnitureAppUI
-Dart,FlutterSocialAppUIKit,Flutter representation of a Social App Concept.,514,https://github.com/JideGuru/FlutterSocialAppUIKit
-Dart,jiffy,"Jiffy is a Flutter (Android, IOS and Web) date time package for parsing, manipulating, querying and formatting dates",606,https://github.com/jama5262/jiffy
-Dart,openai,"Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e..)",613,https://github.com/anasfik/openai
-Dart,uber_clone,"",619,https://github.com/MarcioQuimbundo/uber_clone
-Dart,menu_flutter,🍝 restaurant menu app made with flutter inspired by this design https://goo.gl/jChLBV,622,https://github.com/braulio94/menu_flutter
-Dart,ScholarXIV,"ScholArxiv is an open-source, aesthetic, minimal and AI powered app that allows users to search, read, bookmark, share, download and view summaries of academic papers from the arXiv repository.",852,https://github.com/dagmawibabi/ScholarXIV
-Dart,FlutterEbookApp,A simple Flutter app to Read and Download eBooks.,909,https://github.com/JideGuru/FlutterEbookApp
-Dart,easy_localization,Easy and Fast internationalizing your Flutter Apps,962,https://github.com/aissat/easy_localization
-Go,caddy-git,git middleware for Caddy,205,https://github.com/abiosoft/caddy-git
-Go,hero,[NO LONGER MAINTAINED} oauth 2 server implementation in Go,214,https://github.com/gernest/hero
-Go,smugglefuzz,A rapid HTTP downgrade smuggling scanner written in Go.,253,https://github.com/Moopinger/smugglefuzz
-Go,cute,a minimalist beautiful Go print (fmt alternative),300,https://github.com/zakaria-chahboun/cute
-Go,luar,luar is a Go package for conveniently working with the luago Lua bindings. Arbitrary Go functions can be registered,302,https://github.com/stevedonovan/luar
-Go,colima,Container runtimes on macOS (and Linux) with minimal setup,423,https://github.com/abiosoft/colima
-Go,wow,😮❗❗ Wow❗ now my Go commandline app is spinning with 🌈 and 🐴,511,https://github.com/gernest/wow
-Go,smtp2http,A tiny software that receive a smtp request (email) and send it to the specified webhook as a http post request,526,https://github.com/alash3al/smtp2http
-Go,gocc,Parser / Scanner Generator,625,https://github.com/goccmack/gocc
-Go,got,Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget!,730,https://github.com/melbahja/got
-Go,reporter,Service that generates a PDF report from a Grafana dashboard,987,https://github.com/IzakMarais/reporter
-Handlebars,starter-dashboard-layout,Responsive dashboard layout,214,https://github.com/Kamona-WD/starter-dashboard-layout
-HCL,multi-container-nginx-react-node-mongo,"Multi container application with Nginx, React, Node and Mongo DB. This repository also contains Terraform IaC (Infrastructure as Code) for a CICD pipeline to build and push images to DockerHub.",373,https://github.com/LukeMwila/multi-container-nginx-react-node-mongo
-HTML,hugo-theme-bootstrap4-blog,A blogging-centric Bootstrap v4 theme for the Hugo static site generator.,205,https://github.com/alanorth/hugo-theme-bootstrap4-blog
-HTML,deftERP,"deftERP - Jakarta EE Web Profile (Java EE 7 : JSF, JPA, EJB, CDI, Bean Validation)",226,https://github.com/medbounaga/deftERP
-HTML,CSS-Pattern,A collection of background patterns powered by CSS gradients,227,https://github.com/Afif13/CSS-Pattern
-HTML,kivybits,Kivy bits and pieces,245,https://github.com/Zen-CODE/kivybits
-HTML,mmphego,"Don't just fork it. Star it, please!",249,https://github.com/mmphego/mmphego
-HTML,sqlg,TinkerPop graph over sql,249,https://github.com/pietermartin/sqlg
-HTML,shopcube,🛒 POS & ecommerce solution for Shops. (Woo-commerce for Python) Complete with cart and wishlist.,266,https://github.com/Abdur-rahmaanJ/shopcube
-HTML,django-wedding-website,A django-powered wedding website and guest-management system,475,https://github.com/czue/django-wedding-website
-HTML,References_Books,My awseome reference books library,575,https://github.com/mkassm/References_Books
-HTML,minimus,🌦️ A fully featured production ready Angular weather app (tutorial),628,https://github.com/hamedbaatour/minimus
-HTML,kwd-dashboard,Fully responsive dashboard template built with tailwindcss & alpinejs,672,https://github.com/Kamona-WD/kwd-dashboard
-HTML,pro-sidebar-template,Responsive layout with advanced sidebar menu built with SCSS and vanilla Javascript,980,https://github.com/azouaoui-med/pro-sidebar-template
-Java,QuranyApp,"Open Source HolyQuran app that provide Read, Listen, Tafseer, Test all of them and app is very small size.",205,https://github.com/MahmoudMabrok/QuranyApp
-Java,lens-launcher,"A unique, efficient way to browse and launch your apps",214,https://github.com/ricknout/lens-launcher
-Java,CarouselView,An android carousel library for RecyclerView,235,https://github.com/jama5262/CarouselView
-Java,AngularBeans,"",250,https://github.com/bessemHmidi/AngularBeans
-Java,elasticsearch-vector-scoring,Score documents with pure dot product / cosine similarity with ES,250,https://github.com/MLnick/elasticsearch-vector-scoring
-Java,PickiT,An Android library that returns real paths from Uri's,294,https://github.com/HBiSoft/PickiT
-Java,PS4_Tools,Collection Of Open Source PS4 Tools all in one Library All Written in C#,306,https://github.com/xXxTheDarkprogramerxXx/PS4_Tools
-Java,StateViews,"Create & Show progress, data or error views, the easy way!",373,https://github.com/medyo/StateViews
-Java,Leetcode-Solutions,"A repository with over 7000 solutions to more than 1800 Leetcode problems written in C++, Python, Java, Javascript, Rust & Golang.",374,https://github.com/AnasImloul/Leetcode-Solutions
-Java,PercentageChartView,An Android custom view that displays the progress of an ongoing task.,375,https://github.com/RamiJ3mli/PercentageChartView
-Java,MultiLoader-Template,A template for a Forge + Fabric project setup using a Common source set.,422,https://github.com/jaredlll08/MultiLoader-Template
-Java,HBRecorder,Lightweight screen recording Android library,450,https://github.com/HBiSoft/HBRecorder
-Java,react-native-ml-kit,React Native On-Device Machine Learning w/ Google ML Kit,454,https://github.com/a7medev/react-native-ml-kit
-Java,Competitive-programming-library,Code library for competitive programming purposes.,474,https://github.com/AhmadElsagheer/Competitive-programming-library
-Java,Orin,"Fork of @kabouzied Phonograph, I always wanted to try my hands on Tunzo's material design music player concept which can be found here: https://www.uplabs.com/posts/a-music-player-in-material-desig…",578,https://github.com/aliumujib/Orin
-JavaScript,Adblock4limbo,毒奶去网页广告计划用户脚本 For Quantumult X & Surge & Shadowrocket & Loon & Stash & 油猴 ；1.新增页面右下角导航；2.通过 JavaScript 移除特定网站网页广告 —— 搜索引擎（Bing/Google）广告及内容农场结果清除/低端影视/欧乐影院/iyf爱壹帆/哔滴影视/Pornhub/Javbus/Supjav/Jable(M…,219,https://github.com/limbopro/Adblock4limbo
-JavaScript,I-Miss-You,jQuery plugin to change the title & favicon of the page when the user is not viewing your website,234,https://github.com/Bahlaouane-Hamza/I-Miss-You
-JavaScript,autoComplete.js,Simple autocomplete pure vanilla Javascript library.,242,https://github.com/TarekRaafat/autoComplete.js
-JavaScript,discordjs-v14-series,Source code for the Discord.js v14 series by Under Ctrl on YouTube,257,https://github.com/notunderctrl/discordjs-v14-series
-JavaScript,twitter-bot,Node js twitter bot to send auto welcome message for your new followers,262,https://github.com/yjose/twitter-bot
-JavaScript,BetterViewer,a replacement for the image viewing mode built into Firefox and Chrome-based web browsers.,271,https://github.com/Ademking/BetterViewer
-JavaScript,postgres-express-node-tutorial,"Repository hosting code for the ""Getting Started With NodeJS, Express and Postgres Using Sequelize"" blogpost.",278,https://github.com/waiyaki/postgres-express-node-tutorial
-JavaScript,grabity,Generate link previews from pages with Open Graph or Twitter Cards markup. Just grab it! 🎣,292,https://github.com/e-oj/grabity
-JavaScript,project-mulla,Talk to MPESA API via a REST API. Bringing the MPESA G2 API to the 21st century. --,300,https://github.com/kn9ts/project-mulla
-JavaScript,hexo-theme-amazing,Demo: https://removeif.github.io/removeif-demo hexo-theme,305,https://github.com/removeif/hexo-theme-amazing
-JavaScript,kui-laravel-breeze,Different UI for laravel/breeze.,334,https://github.com/Kamona-WD/kui-laravel-breeze
-JavaScript,DiscordJS-V14-Bot-Template,"A Discord bot with commands, components and events handler based on the latest discord.js v14 and fully written in JavaScript.",365,https://github.com/TFAGaming/DiscordJS-V14-Bot-Template
-JavaScript,Django-School-Management-System,School Management System based on Django framework.,368,https://github.com/adigunsherif/Django-School-Management-System
-JavaScript,Venocyber-md,Introducing Venocyber md bot your personal chuddybuddy md you were looking for this is most powerful Whatsapp chat bot created to ensure your WhatsApp personal requirements you are all in one ✍️👋👋,370,https://github.com/Kingjux/Venocyber-md
-JavaScript,accountill,"Fullstack open source Invoicing application made with MongoDB, Express, React & Nodejs (MERN)",445,https://github.com/panshak/accountill
-JavaScript,yorlang,A programming language with yoruba language construct,451,https://github.com/anoniscoding/yorlang
-JavaScript,cssviewer,"CSSViewer. A Google Chrome Extension for fellow Web Developers, Web Designers, and Hobbyists.",457,https://github.com/miled/cssviewer
-JavaScript,Fawn,Transactions for MongoDB (See the README),485,https://github.com/e-oj/Fawn
-JavaScript,petit-dom,minimalist virtual dom library,510,https://github.com/yelouafi/petit-dom
-JavaScript,kill-port,❌ Kill the process running on given port,524,https://github.com/tiaanduplessis/kill-port
-JavaScript,nudelta,Open source NuPhy Console alternative,541,https://github.com/donn/nudelta
-JavaScript,devdb-vscode,A zero-config VS Code database extension with affordances to aid development and debugging.,651,https://github.com/damms005/devdb-vscode
-JavaScript,Video-Call-App-NodeJS,"A conference call implementation using WebRTC, Socket.io and Node.js",665,https://github.com/amirsanni/Video-Call-App-NodeJS
-JavaScript,cloudflare-cors-anywhere,"CORS ""anywhere"" proxy in a Cloudflare worker. DEMO at: https://test.cors.workers.dev/",700,https://github.com/Zibri/cloudflare-cors-anywhere
-Jupyter,Dynamics-and-Control,Jupyter notebooks for Dynamics and Control,269,https://github.com/alchemyst/Dynamics-and-Control
-Jupyter,soft-vc,Soft speech units for voice conversion,420,https://github.com/bshall/soft-vc
-Jupyter,Mozart,An optical music recognition (OMR) system. Converts sheet music to a machine-readable version.,641,https://github.com/aashrafh/Mozart
-Jupyter,Python-project-Scripts,This repositories contains a list of python scripts projects from beginner level advancing slowly. More code snippets to be added soon. feel free to clone this repo,943,https://github.com/larymak/Python-project-Scripts
-Kotlin,android-mpesa-api,Android MPESA SDK Library to provide smooth MPESA Experience in Android - Dubbed Daraja,200,https://github.com/jumaallan/android-mpesa-api
-Kotlin,sain,"[サイン] A Compose Multiplatform library for capturing and exporting signatures as ImageBitmap with customizable options. Perfect for electronic signature, legal documents and more.",208,https://github.com/joelkanyi/sain
-Kotlin,rugby-ranker,An Android app for viewing and predicting the latest World Rugby rankings 🏉,293,https://github.com/ricknout/rugby-ranker
-Kotlin,compose-dnd,Compose DND is a library that allows you to easily add drag and drop functionality to your Jetpack Compose or Compose Multiplatform projects.,349,https://github.com/MohamedRejeb/compose-dnd
-Kotlin,Ksoup,"Ksoup is a lightweight Kotlin Multiplatform library for parsing HTML, extracting HTML tags, attributes, and text, and encoding and decoding HTML entities.",407,https://github.com/MohamedRejeb/Ksoup
-Kotlin,OnBoardingScreen,create animated onboarding or welcome screen with MotionLayout,511,https://github.com/OmneyaOsman/OnBoardingScreen
-Kotlin,Pokedex,"Pokedex - a Kotlin Multiplatform app, built with Compose multiplatform, Coroutines, Flow, Koin, Ktor, SqlDelight, Decompose, MVIKotlin, and Material 3 based on MVI architecture",727,https://github.com/MohamedRejeb/Pokedex
-Kotlin,mpvKt,"A media player for android, based on mpv-android and built with Jetpack Compose.",810,https://github.com/abdallahmehiz/mpvKt
-Lua,nvim-devdocs,Neovim DevDocs integration,270,https://github.com/luckasRanarison/nvim-devdocs
-Lua,30log,30 lines library for object orientation in Lua,468,https://github.com/Yonaba/30log
-Lua,tailwind-tools.nvim,An unofficial Tailwind CSS integration and tooling for Neovim,475,https://github.com/luckasRanarison/tailwind-tools.nvim
-Lua,Jumper,"Fast, lightweight and easy-to-use pathfinding library for grid-based games",624,https://github.com/Yonaba/Jumper
-Lua,Moses,Utility library for functional programming in Lua,635,https://github.com/Yonaba/Moses
-Lua,nordic.nvim,"🌒 Nord for Neovim, but warmer and darker. Supports a variety of plugins and other platforms.",810,https://github.com/AlexvZyl/nordic.nvim
-Markdown,Blockchain-Development-Resources,"The contents of this repository will help you launch a career in Blockchain development. How to deploy Smart contracts on Ethereum, build DApps, DeFi, DAO, NFT and Token protocol.",345,https://github.com/frankiefab100/Blockchain-Development-Resources
-Nix,pglite-fusion,Embed an SQLite database in your PostgreSQL table. AKA multitenancy has been solved.,766,https://github.com/frectonz/pglite-fusion
-Objective-C,ATAppUpdater,Checks if there is a newer version of your app in the AppStore and alerts the user to update.,261,https://github.com/emotality/ATAppUpdater
-Pascal,CryptoLib4Pascal,Crypto for Modern Object Pascal,218,https://github.com/Xor-el/CryptoLib4Pascal
-Pascal,HashLib4Pascal,Hashing for Modern Object Pascal,228,https://github.com/Xor-el/HashLib4Pascal
-Pascal,xtool,Just some tool repackers like to use...,262,https://github.com/Razor12911/xtool
-PHP,laravel-updater,Laravel Updater is a simple yet powerful package for updater your Laravel applications. It makes it easy to upgrade your application to the latest version with just one command.,207,https://github.com/salahhusa9/laravel-updater
-PHP,route,"Route - Fast, flexible routing for PHP, enabling you to quickly and easily build RESTful web applications.",214,https://github.com/nezamy/route
-PHP,php-jsondb,A PHP Class that reads JSON file as a database. Use for sample DBs,216,https://github.com/donjajo/php-jsondb
-PHP,laradminator,Integration of Adminator into Laravel 6.x/7.x/8.x with RTL support,228,https://github.com/kossa/laradminator
-PHP,larapoll,A Laravel package to manage your polls,260,https://github.com/akiyamaSM/larapoll
-PHP,laravel-wallet,A simple wallet implementation for Laravel.,266,https://github.com/stephenjude/laravel-wallet
-PHP,laravel-workflow,Use the Symfony Workflow component in Laravel,281,https://github.com/brexis/laravel-workflow
-PHP,travel,Framework agnostic PHP package to control the time.,285,https://github.com/rashidlaasri/travel
-PHP,whisper.php,Local Speech to Text in PHP made easy thanks to Whisper.cpp and OpenAI,299,https://github.com/CodeWithKyrian/whisper.php
-PHP,seo,🐘 Simple PHP library to help developers 🍻 do better on-page SEO optimization 🤖,326,https://github.com/melbahja/seo
-PHP,laravel-paypalpayment,"Laravel paypal payment package , help you process credit card payment using paypal api",335,https://github.com/anouarabdsslm/laravel-paypalpayment
-PHP,lumen-generators,A collection of generators for Lumen and Laravel 5.,353,https://github.com/webNeat/lumen-generators
-PHP,WooCommerce-REST-API-Client-Library,A PHP wrapper for the WooCommerce REST API,356,https://github.com/kloon/WooCommerce-REST-API-Client-Library
-PHP,wordpress-social-login,WordPress Social Login,399,https://github.com/miled/wordpress-social-login
-PHP,yaldash,👻 It's never been easier to build and customize admin panels. Yah! yaldash is a beautifully designed administration panel for Laravel.,403,https://github.com/getspooky/yaldash
-PHP,ArabicWebAppsPentesting,"This repo will contain POC, demo files, and any links given during the Arab web application penetration testing course.",461,https://github.com/zigoo0/ArabicWebAppsPentesting
-PHP,LaravelInstaller,A web installer for Laravel,477,https://github.com/rashidlaasri/LaravelInstaller
-PHP,Mini-Inventory-and-Sales-Management-System,An Inventory and Sales Management System written in PHP (codeIgniter) with support for MySQL and Sqlite3 databases,522,https://github.com/amirsanni/Mini-Inventory-and-Sales-Management-System
-PHP,laravel-trix,Configurable Basecamp Trix Editor (WYSIWYG) delivered to your laravel application,530,https://github.com/amaelftah/laravel-trix
-PHP,transformers-php,Transformers PHP is a toolkit for PHP developers to add machine learning magic to their projects easily.,611,https://github.com/CodeWithKyrian/transformers-php
-PHP,JSONBee,A ready to use JSONP endpoints/payloads to help bypass content security policy (CSP) of different websites.,693,https://github.com/zigoo0/JSONBee
-PHP,scaffold-interface,🚀 A Smart CRUD Generator For Laravel,916,https://github.com/amranidev/scaffold-interface
-PHP,NexoPOS,"The base version of NexoPOS, which is a web-Based Point Of Sale (POS) System build with Laravel, TailwindCSS, and Vue.Js.",975,https://github.com/Blair2004/NexoPOS
-Python,hiphp,"The BackDoor of HIPHP gives you the power to control websites based on PHP using HTTP/HTTPS protocol. By sending files, tokens and commands through port 80's POST/GET method, users can access a ran…",213,https://github.com/yasserbdj96/hiphp
-Python,pyshell,Simple Remote Access Trojan Tool,213,https://github.com/MindPatch/pyshell
-Python,odoo-rest-api,Module which expose Odoo as a REST API,217,https://github.com/yezyilomo/odoo-rest-api
-Python,oxdork,Google dorking tool,217,https://github.com/rly0nheart/oxdork
-Python,depixel,"Depixeling tool, based on ""Depixelizing Pixel Art"".",220,https://github.com/jerith/depixel
-Python,PwnLnX,"An advanced multi-threaded, multi-client python reverse shell for hacking linux systems. There's still more work to do so feel free to help out with the development. Disclaimer: This reverse shell …",228,https://github.com/thatstraw/PwnLnX
-Python,plotnine,A Grammar of Graphics for Python,230,https://github.com/has2k1/plotnine
-Python,CLIPPyX,"AI Powered search tool offers content-based, text, and visual similarity system-wide search.",231,https://github.com/0ssamaak0/CLIPPyX
-Python,ispy,ispy V1.0 - Eternalblue(ms17-010)/Bluekeep(CVE-2019-0708) Scanner and exploit ( Metasploit automation ),234,https://github.com/Cyb0r9/ispy
-Python,UniversalVocoding,"A PyTorch implementation of ""Robust Universal Neural Vocoding""",238,https://github.com/bshall/UniversalVocoding
-Python,sunsynk,Deye/Sunsynk Inverter Python library and Home Assistant OS Addon,242,https://github.com/kellerza/sunsynk
-Python,thedevilseye,An osint tool that uses Ahmia.fi to get hidden services and descriptions that match with the users query.,248,https://github.com/rly0nheart/thedevilseye
-Python,Egyscan,Egyscan The Best web vulnerability scanner; it's a multifaceted security powerhouse designed to fortify your web applications against malicious threats. Let's delve into the tasks and functions tha…,253,https://github.com/dragonked2/Egyscan
-Python,plydata,A grammar for data manipulation in Python,276,https://github.com/has2k1/plydata
-Python,geo-recon,An OSINT CLI tool desgined to fast track IP Reputation and Geo-locaton look up for Security Analysts.,281,https://github.com/radioactivetobi/geo-recon
-Python,ecommerce_api,E-commerce by Django Rest Framework,282,https://github.com/thomas545/ecommerce_api
-Python,Final-Senior-Year-Project-,My College Final(Senior) Year Project,282,https://github.com/Williano/Final-Senior-Year-Project-
-Python,elmocut,Eye candy ARP spoofer for Windows,285,https://github.com/elmoiv/elmocut
-Python,mishkal,Mishkal is an arabic text vocalization software,289,https://github.com/linuxscout/mishkal
-Python,Arabic-OCR,OCR system for Arabic language that converts images of typed text to machine-encoded text.,290,https://github.com/HusseinYoussef/Arabic-OCR
-Python,One-Lin3r,"Gives you one-liners that aids in penetration testing operations, privilege escalation and more",292,https://github.com/D4Vinci/One-Lin3r
-Python,WebMap,"A Python tool used to automate the execution of the following tools : Nmap , Nikto and Dirsearch but also to automate the report generation during a Web Penetration Testing",292,https://github.com/Anteste/WebMap
-Python,replica,Ghidra Analysis Enhancer 🐉,295,https://github.com/reb311ion/replica
-Python,Formation,Tools for building gorgeous graphical user interfaces in tkinter,303,https://github.com/ObaraEmmanuel/Formation
-Python,CookedGrabber,"Discord, Twitter, Instagram, Netflix cookies, token grabber and also password grabber. Grabbing from all web browsers !",307,https://github.com/mouadessalim/CookedGrabber
-Python,log4jpwn,log4j rce test environment and poc,310,https://github.com/leonjza/log4jpwn
-Python,bane,"The ""bane"" Python library stands out as a robust toolkit catering to a wide spectrum of cybersecurity and networking tasks. Its versatile range of functionalities covers various aspects, including …",325,https://github.com/AlaBouali/bane
-Python,student-management-using-django,A Student Management System Created Using Django,327,https://github.com/jobic10/student-management-using-django
-Python,DLTA-AI,"Data Labeling, Tracking and Annotation with AI",336,https://github.com/0ssamaak0/DLTA-AI
-Python,vulnx,"vulnx 🕷️ an intelligent Bot, Shell can achieve automatic injection, and help researchers detect security vulnerabilities CMS system. It can perform a quick CMS security detection, information colle…",343,https://github.com/anouarbensaad/vulnx
-Python,hubert,HuBERT content encoders for: A Comparison of Discrete and Soft Speech Units for Improved Voice Conversion,344,https://github.com/bshall/hubert
-Python,Insta-mass-account-creator,Instagram Account Creator 2024 - Not Maintained,361,https://github.com/FeezyHendrix/Insta-mass-account-creator
-Python,Emotion-recognition,Real time emotion recognition,368,https://github.com/otaha178/Emotion-recognition
-Python,GmailBruterV2,Simple tool written in python3 to perform limited brute-force attacks on gmail accounts.,371,https://github.com/DEMON1A/GmailBruterV2
-Python,Dr0p1t-Framework,A framework that create an advanced stealthy dropper that bypass most AVs and have a lot of tricks,378,https://github.com/D4Vinci/Dr0p1t-Framework
-Python,PyFlooder,A http flood python script that could stop a normal website in 10s,383,https://github.com/D4Vinci/PyFlooder
-Python,alright,Python wrapper for WhatsApp web-based on selenium,386,https://github.com/Kalebu/alright
-Python,python-gsmmodem,"Python module to control a GSM modem attached to the system: send/receive SMS messages, handle calls, etc",391,https://github.com/faucamp/python-gsmmodem
-Python,Cr3dOv3r,Know the dangers of credential reuse attacks.,412,https://github.com/D4Vinci/Cr3dOv3r
-Python,django-ninja-extra,Django Ninja Extra - Class-Based Utility and more for Django Ninja(Fast Django REST framework),432,https://github.com/eadwinCode/django-ninja-extra
-Python,Top-Deep-Learning,Top 200 deep learning Github repositories sorted by the number of stars.,432,https://github.com/mbadry1/Top-Deep-Learning
-Python,webpwn3r,WebPwn3r - Web Applications Security Scanner.,454,https://github.com/zigoo0/webpwn3r
-Python,CS231n-2017-Summary,"After watching all the videos of the famous Standford's CS231n course that took place in 2017, i decided to take summary of the whole course to help me to remember and to anyone who would like to k…",458,https://github.com/mbadry1/CS231n-2017-Summary
-Python,pyarabic,pyarabic,458,https://github.com/linuxscout/pyarabic
-Python,PyLoggy,"A python keylogger that does more than any other keylogger - Key logger, Clicks logger and Screenshots",460,https://github.com/D4Vinci/PyLoggy
-Python,PenBox,"PenBox - A Penetration Testing Framework - The Tool With All The Tools , The Hacker's Repo",467,https://github.com/x3omdax/PenBox
-Python,knn-vc,Voice Conversion With Just Nearest Neighbors,474,https://github.com/bshall/knn-vc
-Python,database_system_concepts_answers,🗄️ Solutions to Database System Concepts Seventh Edition,476,https://github.com/noahabe/database_system_concepts_answers
-Python,celery-progress,"Drop in, configurable, dependency-free progress bars for your Django/Celery applications.",482,https://github.com/czue/celery-progress
-Python,Crips,"IP Tools To quickly get information about IP Address's, Web Pages and DNS records.",485,https://github.com/Manisso/Crips
-Python,cheatsheets,My Cheatsheet Repository,499,https://github.com/ruanbekker/cheatsheets
-Python,topy,Topology Optimization using Python,500,https://github.com/williamhunter/topy
-Python,fastapi-mongo,Template for building FastAPI applications with MongoDB.,510,https://github.com/Youngestdev/fastapi-mongo
-Python,playlistor,🎶Apple Music ↔️ Spotify playlist convertor.,532,https://github.com/akornor/playlistor
-Python,Cuteit,IP obfuscator made to make a malicious ip a bit cuter,544,https://github.com/D4Vinci/Cuteit
-Python,dbus-serialbattery,Battery Monitor driver for serial battery in VenusOS GX systems,553,https://github.com/Louisvdw/dbus-serialbattery
-Python,emotion-recognition-using-speech,"Building and training Speech Emotion Recognizer that predicts human emotions using Python, Sci-kit learn and Keras",607,https://github.com/x4nth055/emotion-recognition-using-speech
-Python,django-lms,"A learning management system using django web framework. Course add and drop, grade and assessment result management, online quiz, report generator, student and lecturers management, dashboard, and…",618,https://github.com/adilmohak/django-lms
-Python,django-restql,Turn your API made with Django REST Framework(DRF) into a GraphQL like API.,619,https://github.com/yezyilomo/django-restql
-Python,MARA_Framework,MARA is a Mobile Application Reverse engineering and Analysis Framework. It is a toolkit that puts together commonly used mobile application reverse engineering and analysis tools to assist in test…,633,https://github.com/xtiankisutsa/MARA_Framework
-Python,Trending-Deep-Learning,Top 100 trending deep learning repositories sorted by the number of stars gained on a specific day.,640,https://github.com/mbadry1/Trending-Deep-Learning
-Python,pyan,pyan is a Python module that performs static analysis of Python code to determine a call dependency graph between functions and methods. This is different from running the code and seeing which fun…,663,https://github.com/davidfraser/pyan
-Python,rpi_lcars,Star Trek LCARS interface for Raspberry Pi using Pygame,669,https://github.com/tobykurien/rpi_lcars
-Python,django-apscheduler,APScheduler for Django,680,https://github.com/jcass77/django-apscheduler
-Python,scant3r,ScanT3r - Module based Bug Bounty Automation Tool ( use Lotus instead github.com/bugBlocker/lotus ),686,https://github.com/MindPatch/scant3r
-Python,atbswp,A minimalist macro recorder,733,https://github.com/RMPR/atbswp
-Python,BurpJSLinkFinder,Burp Extension for a passive scanning JS files for endpoint links.,764,https://github.com/InitRoot/BurpJSLinkFinder
-Python,elpscrk,"An Intelligent wordlist generator based on user profiling, permutations, and statistics. (Named after the same tool in Mr.Robot series S01E01)",818,https://github.com/D4Vinci/elpscrk
-Python,QT-PyQt-PySide-Custom-Widgets,Awesome custom widgets made for QT Desktop Applications. Simplify your UI development process. These widgets can be used in QT Designer then imported to PySide code.,849,https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets
-Python,authx,Ready-to-use and customizable Authentications and Oauth2 management for FastAPI ✨,865,https://github.com/yezz123/authx
-R,Rcrawler,An R web crawler and scraper,353,https://github.com/salimk/Rcrawler
-Ruby,faker-bot,A tool to make it easier to pick the right Faker methods to generate the fake data you need. 🔍,205,https://github.com/akabiru/faker-bot
-Ruby,solargraph-rails,Solargraph plugin to add awareness of Rails-specific code,326,https://github.com/iftheshoefritz/solargraph-rails
-Ruby,mittsu,3D Graphics Library for Ruby.,527,https://github.com/danini-the-panini/mittsu
-Ruby,capistrano-sidekiq,Sidekiq integration for Capistrano,559,https://github.com/seuros/capistrano-sidekiq
-Ruby,capistrano-puma,Puma integration for Capistrano,618,https://github.com/seuros/capistrano-puma
-Rust,duma,Simple file downloader written in Rust,220,https://github.com/mattgathu/duma
-Rust,series-troxide,A Simple and Modern Series Tracker,225,https://github.com/MaarifaMaarifa/series-troxide
-Rust,rust_gpiozero,A library inspired by gpiozero written in Rust,239,https://github.com/rahul-thakoor/rust_gpiozero
-Rust,lorsrf,Fast CLI tool to find the parameters that can be used to find SSRF or Out-of-band resource load 🛰️ 🦀,294,https://github.com/MindPatch/lorsrf
-Rust,wasm_nvim,Wasm platform for nvim.,307,https://github.com/Borwe/wasm_nvim
-Rust,xtra,🎭 A tiny actor framework,331,https://github.com/Restioson/xtra
-Rust,cute,Macro for Python-esque comprehensions in Rust,338,https://github.com/mattgathu/cute
-Rust,zune-image,A fast and memory efficient image library in Rust,364,https://github.com/etemesi254/zune-image
-Rust,music-player,An extensible music server written in Rust 🚀🎵✨,442,https://github.com/tsirysndr/music-player
-Rust,serpl,"A simple terminal UI for search and replace, ala VS Code.",610,https://github.com/yassinebridi/serpl
-Rust,IRust,Cross Platform Rust Repl,650,https://github.com/sigmaSd/IRust
-Rust,gentle-intro,A gentle Rust tutorial,836,https://github.com/stevedonovan/gentle-intro
-Rust,lla,blazing fast `ls` replacement with superpowers,961,https://github.com/chaqchase/lla
-SCSS,type,🎉 Minimal and Clean Free Jekyll Theme,215,https://github.com/ahmadajmi/type
-ShaderLab,URP-LWRP-Shaders,A Collection of Shader For URP(LWRP) Render Pipeline,652,https://github.com/marcozakaria/URP-LWRP-Shaders
-Shell,winspy,WinSpy a Windows reverse shell Backdoor creator with an Automatic IP Poisener,203,https://github.com/Cyb0r9/winspy
-Shell,Androspy,Androspy framework is a Backdoor Crypter & Creator with Automatic IP Poisener,252,https://github.com/Cyb0r9/Androspy
-Shell,The-Big-List-of-Hacked-Malware-Web-Sites,"This repository contains a list of all web sites I come across that are either hacked with or purposefully hosting malware, ransomware, viruses or trojans.",280,https://github.com/mitchellkrogza/The-Big-List-of-Hacked-Malware-Web-Sites
-Shell,.dotfiles,"🗃️ Configuration files/scripts for NixOS, Neovim, Tmux and friends.",299,https://github.com/AlexvZyl/.dotfiles
-Shell,nginx-ultimate-bad-bot-blocker,"Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail f…",489,https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker
-Shell,SocialBox,"SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi",513,https://github.com/Cyb0r9/SocialBox
-Shell,flutter-spy,"Explore, analyze, and gain valuable data & insights from reverse engineered Flutter apps.",595,https://github.com/anasfik/flutter-spy
-Shell,proxmox-scripts,"",612,https://github.com/ej52/proxmox-scripts
-Shell,caddy-docker,Docker container for Caddy,774,https://github.com/abiosoft/caddy-docker
-Swift,MIBadgeButton-Swift,iOS custom badge button.,342,https://github.com/mustafaibrahim989/MIBadgeButton-Swift
-Swift,AdvancedPageControl,A simple yet powerful animated page control indicator for iOS.,533,https://github.com/mohn93/AdvancedPageControl
-TypeScript,obsidian-spaced-repetition,Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian,208,https://github.com/st3v3nmw/obsidian-spaced-repetition
-TypeScript,reactjs-popup,"React Popup Component - Modals,Tooltips and Menus —  All in one",208,https://github.com/yjose/reactjs-popup
-TypeScript,angular-pro-sidebar,Responsive sidebar template with dropdown menu built with angular 7 and bootstrap 4,210,https://github.com/azouaoui-med/angular-pro-sidebar
-TypeScript,sticky,A simple sticky notes app for GNOME,210,https://github.com/vixalien/sticky
-TypeScript,wordle,A recreation of the popular game Wordle with additional modes and features. Made with Svelte in Typescript.,224,https://github.com/MikhaD/wordle
-TypeScript,badeel,An Egyptian alternatives listing project with UX in mind,228,https://github.com/KL13NT/badeel
-TypeScript,recoil-design-tool,"A design tool, built using Recoil.",233,https://github.com/jacques-blom/recoil-design-tool
-TypeScript,instagram-video-downloader,Simple website made with Next.js for downloading instagram videos with an API that can be used to integrate it in other applications.,239,https://github.com/riad-azz/instagram-video-downloader
-TypeScript,angularfire-lite,⚡ Lightweight library to use Firebase API with Angular,242,https://github.com/hamedbaatour/angularfire-lite
-TypeScript,modifio,"Unleash your creativity with Modifio – the ultimate online tool for unlimited and free multimedia conversion. Transform images, audio, and videos effortlessly, without restrictions. Start convertin…",243,https://github.com/benlhachemi/modifio
-TypeScript,muzika,Elegant music streaming app,310,https://github.com/vixalien/muzika
-TypeScript,electron-pos-printer,"Electron-pos-printer is a plugin that works to ease paper formatting and printing to thermal printers. it currently supports 80mm, 78mm, 76mm, 58mm, 57mm and 44mm printers thermal printers. it is b…",330,https://github.com/Hubertformin/electron-pos-printer
-TypeScript,Framer-ground,"Elevate your web projects with fine, small animated components.",339,https://github.com/code-env/Framer-ground
-TypeScript,prisma-redis-middleware,Prisma Middleware for caching queries in Redis,363,https://github.com/Asjas/prisma-redis-middleware
-TypeScript,react-pro-sidebar,React Pro Sidebar provides a set of components for creating high level and customizable side navigation,411,https://github.com/azouaoui-med/react-pro-sidebar
-TypeScript,spark-ui,"Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion ✨",553,https://github.com/selemondev/spark-ui
-TypeScript,react-tailwindcss-datepicker,Modern date range picker component for React using Tailwind 3 and dayjs. Alternative to Litepie Datepicker.,578,https://github.com/onesine/react-tailwindcss-datepicker
-TypeScript,QuickApp,"ASP.NET Core / Angular startup project template with complete login, user and role management. Plus other useful services for Quick Application Development",611,https://github.com/emonney/QuickApp
-TypeScript,hackertab.dev,A Chrome 🌐 & Firefox 🦊 extension to discover the latest developer news and tools in one tab!,646,https://github.com/medyo/hackertab.dev
-TypeScript,villus,🏎 A tiny and fast GraphQL client for Vue.js,805,https://github.com/logaretm/villus
-Vue,DiceCloud,D&D 5e digital character manager,403,https://github.com/ThaumRystra/DiceCloud
-Vue,jira_clone,A Jira clone built with Vuejs & Nodejs/Graphql,933,https://github.com/Datlyfe/jira_clone
-Xtend,WebApps,DEPRECATED ⛔️ Android app to provide sandboxed (private) browsing of webapps,237,https://github.com/tobykurien/WebApps
-Xtend,Xtendroid,Xtendroid is a DSL (domain-specific language) for Android that greatly reduces boilerplate code while providing great tooling support,242,https://github.com/tobykurien/Xtendroid
+name,category,description,stars,url
+30log,Lua,30 lines library for object orientation in Lua,468,https://github.com/Yonaba/30log
+accountill,JavaScript,"Fullstack open source Invoicing application made with MongoDB, Express, React & Nodejs (MERN)",1653,https://github.com/panshak/accountill
+AdvancedPageControl,Swift,A simple yet powerful animated page control indicator for iOS.,533,https://github.com/mohn93/AdvancedPageControl
+alright,Python,Python wrapper for WhatsApp web-based on selenium,386,https://github.com/Kalebu/alright
+apache-ultimate-bad-bot-blocker,C,"Apache Block Bad Bots, (Referer) Spam Referrer Blocker, Vulnerability Scanners, Malware, Adware, Ransomware, Malicious Sites, Wordpress Theme Detectors and Fail2Ban Jail for Repeat Offenders",848,https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
+Aquila,C,AquilaOS: UNIX-like Operating System,478,https://github.com/thethumbler/Aquila
+atbswp,Python,A minimalist macro recorder,733,https://github.com/RMPR/atbswp
+authx,Python,Ready-to-use and customizable Authentications and Oauth2 management for FastAPI ✨,865,https://github.com/yezz123/authx
+autoComplete.js,JavaScript,Simple autocomplete pure vanilla Javascript library.,3970,https://github.com/TarekRaafat/autoComplete.js
+bane,Python,"The ""bane"" Python library stands out as a robust toolkit catering to a wide spectrum of cybersecurity and networking tasks. Its versatile range of functionalities covers various aspects, including …",325,https://github.com/AlaBouali/bane
+bladewind,Blade,BladewindUI is a collection of elegant Laravel blade-based UI components spiced with TailwindCSS and Javascript.,582,https://github.com/mkocansey/bladewind
+building_tools,Python,Building generation addon for blender,1387,https://github.com/ranjian0/building_tools
+bunster,Go,Compile shell scripts to static binaries.,1992,https://github.com/yassinebenaid/bunster
+BurpJSLinkFinder,Python,Burp Extension for a passive scanning JS files for endpoint links.,764,https://github.com/InitRoot/BurpJSLinkFinder
+caddy-docker,Shell,Docker container for Caddy,774,https://github.com/abiosoft/caddy-docker
+Calf,Kotlin,"Calf is a library that allows you to easily create adaptive UIs and access platform specific APIs with Compose Multiplatform (Adaptive UI, File Picker, WebView, Permissions...).",1022,https://github.com/MohamedRejeb/Calf
+capistrano-puma,Ruby,Puma integration for Capistrano,618,https://github.com/seuros/capistrano-puma
+capistrano-sidekiq,Ruby,Sidekiq integration for Capistrano,559,https://github.com/seuros/capistrano-sidekiq
+celery-progress,Python,"Drop in, configurable, dependency-free progress bars for your Django/Celery applications.",482,https://github.com/czue/celery-progress
+cloudflare-cors-anywhere,JavaScript,"CORS ""anywhere"" proxy in a Cloudflare worker. DEMO at: https://test.cors.workers.dev/",700,https://github.com/Zibri/cloudflare-cors-anywhere
+colima,Go,Container runtimes on macOS (and Linux) with minimal setup,21313,https://github.com/abiosoft/colima
+compose-dnd,Kotlin,Compose DND is a library that allows you to easily add drag and drop functionality to your Jetpack Compose or Compose Multiplatform projects.,349,https://github.com/MohamedRejeb/compose-dnd
+compose-rich-editor,Kotlin,"A Rich text editor library for both Jetpack Compose and Compose Multiplatform, fully customizable, supports HTML and Markdown.",1285,https://github.com/MohamedRejeb/compose-rich-editor
+Crips,Python,"IP Tools To quickly get information about IP Address's, Web Pages and DNS records.",485,https://github.com/Manisso/Crips
+cssviewer,JavaScript,"CSSViewer. A Google Chrome Extension for fellow Web Developers, Web Designers, and Hobbyists.",457,https://github.com/miled/cssviewer
+cute,Go,a minimalist beautiful Go print (fmt alternative),300,https://github.com/zakaria-chahboun/cute
+cute,Rust,Macro for Python-esque comprehensions in Rust,338,https://github.com/mattgathu/cute
+dbus-serialbattery,Python,Battery Monitor driver for serial battery in VenusOS GX systems,553,https://github.com/Louisvdw/dbus-serialbattery
+devdb-vscode,JavaScript,A zero-config VS Code database extension with affordances to aid development and debugging.,651,https://github.com/damms005/devdb-vscode
+DiceCloud,Vue,D&D 5e digital character manager,403,https://github.com/ThaumRystra/DiceCloud
+DiscordJS-V14-Bot-Template,JavaScript,"A Discord bot with commands, components and events handler based on the latest discord.js v14 and fully written in JavaScript.",365,https://github.com/TFAGaming/DiscordJS-V14-Bot-Template
+django-apscheduler,Python,APScheduler for Django,680,https://github.com/jcass77/django-apscheduler
+django-lms,Python,"A learning management system using django web framework. Course add and drop, grade and assessment result management, online quiz, report generator, student and lecturers management, dashboard, and…",618,https://github.com/adilmohak/django-lms
+django-ninja-extra,Python,Django Ninja Extra - Class-Based Utility and more for Django Ninja(Fast Django REST framework),432,https://github.com/eadwinCode/django-ninja-extra
+django-restql,Python,Turn your API made with Django REST Framework(DRF) into a GraphQL like API.,619,https://github.com/yezyilomo/django-restql
+Django-School-Management-System,JavaScript,School Management System based on Django framework.,368,https://github.com/adigunsherif/Django-School-Management-System
+django-wedding-website,HTML,A django-powered wedding website and guest-management system,475,https://github.com/czue/django-wedding-website
+DLTA-AI,Python,"Data Labeling, Tracking and Annotation with AI",336,https://github.com/0ssamaak0/DLTA-AI
+dropdown_button2,Dart,Flutter's core Dropdown Button widget with steady dropdown menu and many other features.,300,https://github.com/AhmedLSayed9/dropdown_button2
+easy_localization,Dart,Easy and Fast internationalizing your Flutter Apps,962,https://github.com/aissat/easy_localization
+electron-pos-printer,TypeScript,"Electron-pos-printer is a plugin that works to ease paper formatting and printing to thermal printers. it currently supports 80mm, 78mm, 76mm, 58mm, 57mm and 44mm printers thermal printers. it is b…",330,https://github.com/Hubertformin/electron-pos-printer
+elpscrk,Python,"An Intelligent wordlist generator based on user profiling, permutations, and statistics. (Named after the same tool in Mr.Robot series S01E01)",818,https://github.com/D4Vinci/elpscrk
+Emotion-recognition,Python,Real time emotion recognition,1112,https://github.com/otaha178/Emotion-recognition
+emotion-recognition-using-speech,Python,"Building and training Speech Emotion Recognizer that predicts human emotions using Python, Sci-kit learn and Keras",607,https://github.com/x4nth055/emotion-recognition-using-speech
+esp32-c3-mini,C,LVGL UI for ESP32 C3 mini 240*240 board (ESP32-2424S012),308,https://github.com/fbiego/esp32-c3-mini
+fastapi-mongo,Python,Template for building FastAPI applications with MongoDB.,510,https://github.com/Youngestdev/fastapi-mongo
+Fawn,JavaScript,Transactions for MongoDB (See the README),485,https://github.com/e-oj/Fawn
+FilelessPELoader,C++,"Loading Remote AES Encrypted PE in memory , Decrypted it and run it",914,https://github.com/SaadAhla/FilelessPELoader
+FileX,Dart,Simple File Explorer made with Flutter(WIP),477,https://github.com/JideGuru/FileX
+flutter_advance,Dart,"A collection of custom/advanced Flutter design, animations and UI",451,https://github.com/cscoderr/flutter_advance
+flutter_zoom_drawer,Dart,A Flutter package with custom implementation of Drawer,467,https://github.com/medyas/flutter_zoom_drawer
+FlutterEbookApp,Dart,A simple Flutter app to Read and Download eBooks.,3156,https://github.com/JideGuru/FlutterEbookApp
+FlutterFoodybite,Dart,Flutter representation of a Restaurant app UI.,1644,https://github.com/JideGuru/FlutterFoodybite
+FlutterFurnitureAppUI,Dart,Flutter representation of a furniture app UI,509,https://github.com/JideGuru/FlutterFurnitureAppUI
+flutter-open-ui,C++,"Flutter open-source project that's all about pushing the boundaries of User Interfaces! 🌟✨ If you're a Flutter enthusiast or just someone who appreciates stunning UI/UX, this project is tailor-mad…",487,https://github.com/yunweneric/flutter-open-ui
+FlutterSocialAppUIKit,Dart,Flutter representation of a Social App Concept.,1943,https://github.com/JideGuru/FlutterSocialAppUIKit
+flutter-spy,Shell,"Explore, analyze, and gain valuable data & insights from reverse engineered Flutter apps.",595,https://github.com/anasfik/flutter-spy
+FlutterTravel,Dart,Flutter representation of a Travel App Concept.,1142,https://github.com/JideGuru/FlutterTravel
+flutter-ui-kits,Dart,Free Flutter UI Kits developed by Olayemi Garuba,1381,https://github.com/olayemii/flutter-ui-kits
+foo_openlyrics,C++,An open-source lyric display panel for foobar2000,473,https://github.com/jacquesh/foo_openlyrics
+foodybite,Dart,A beautiful restaurant app with great and exquisite UI for foodies.,323,https://github.com/david-legend/foodybite
+Formation,Python,Tools for building gorgeous graphical user interfaces in tkinter,303,https://github.com/ObaraEmmanuel/Formation
+Framer-ground,TypeScript,"Elevate your web projects with fine, small animated components.",339,https://github.com/code-env/Framer-ground
+fsociety,Python,fsociety Hacking Tools Pack – A Penetration Testing Framework,10894,https://github.com/Manisso/fsociety
+git-recall,Shell,An interactive way to peruse your git history from the terminal,2118,https://github.com/Fakerr/git-recall
+gocc,Go,Parser / Scanner Generator,625,https://github.com/goccmack/gocc
+google_map_location_picker,Dart,🌍 Map location picker component for flutter Based on google_maps_flutter,206,https://github.com/humazed/google_map_location_picker
+goph,Go,🤘 The native golang ssh client to execute your commands over ssh connection. 🚀🚀,1813,https://github.com/melbahja/goph
+got,Go,Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget!,730,https://github.com/melbahja/got
+hackertab.dev,TypeScript,A Chrome 🌐 & Firefox 🦊 extension to discover the latest developer news and tools in one tab!,646,https://github.com/medyo/hackertab.dev
+HBRecorder,Java,Lightweight screen recording Android library,450,https://github.com/HBiSoft/HBRecorder
+hubert,Python,HuBERT content encoders for: A Comparison of Discrete and Soft Speech Units for Improved Voice Conversion,344,https://github.com/bshall/hubert
+IRust,Rust,Cross Platform Rust Repl,650,https://github.com/sigmaSd/IRust
+ishell,Go,Library for creating interactive cli applications.,1708,https://github.com/abiosoft/ishell
+jiffy,Dart,"Jiffy is a Flutter (Android, IOS and Web) date time package for parsing, manipulating, querying and formatting dates",606,https://github.com/jama5262/jiffy
+jira_clone,Vue,A Jira clone built with Vuejs & Nodejs/Graphql,933,https://github.com/Datlyfe/jira_clone
+Jumper,Lua,"Fast, lightweight and easy-to-use pathfinding library for grid-based games",624,https://github.com/Yonaba/Jumper
+kill-port,JavaScript,❌ Kill the process running on given port,524,https://github.com/tiaanduplessis/kill-port
+knn-vc,Python,Voice Conversion With Just Nearest Neighbors,474,https://github.com/bshall/knn-vc
+Ksoup,Kotlin,"Ksoup is a lightweight Kotlin Multiplatform library for parsing HTML, extracting HTML tags, attributes, and text, and encoding and decoding HTML entities.",407,https://github.com/MohamedRejeb/Ksoup
+kui-laravel-breeze,JavaScript,Different UI for laravel/breeze.,334,https://github.com/Kamona-WD/kui-laravel-breeze
+kwd-dashboard,HTML,Fully responsive dashboard template built with tailwindcss & alpinejs,672,https://github.com/Kamona-WD/kwd-dashboard
+LaravelInstaller,PHP,A web installer for Laravel,1941,https://github.com/rashidlaasri/LaravelInstaller
+laravel-paypalpayment,PHP,"Laravel paypal payment package , help you process credit card payment using paypal api",335,https://github.com/anouarabdsslm/laravel-paypalpayment
+laravel-trix,PHP,Configurable Basecamp Trix Editor (WYSIWYG) delivered to your laravel application,530,https://github.com/amaelftah/laravel-trix
+lla,Rust,blazing fast `ls` replacement with superpowers,961,https://github.com/chaqchase/lla
+luar,Go,luar is a Go package for conveniently working with the luago Lua bindings. Arbitrary Go functions can be registered,302,https://github.com/stevedonovan/luar
+lumen-generators,PHP,A collection of generators for Lumen and Laravel 5.,353,https://github.com/webNeat/lumen-generators
+macbook12-spi-driver,C,"WIP input driver for the SPI touchpad / keyboard found in the 12"" MacBook (MacBook8,1 + MacBook9,1)",303,https://github.com/cb22/macbook12-spi-driver
+Magic-Grid,JavaScript,"A simple, lightweight Javascript library for dynamic grid layouts.",3154,https://github.com/e-oj/Magic-Grid
+mangayomi,Dart,"Free and open source application for reading manga, novels, and watching animes available on Android, iOS, macOS, Linux and Windows",1953,https://github.com/kodjodevf/mangayomi
+MARA_Framework,Python,MARA is a Mobile Application Reverse engineering and Analysis Framework. It is a toolkit that puts together commonly used mobile application reverse engineering and analysis tools to assist in test…,633,https://github.com/xtiankisutsa/MARA_Framework
+menu_flutter,Dart,🍝 restaurant menu app made with flutter inspired by this design https://goo.gl/jChLBV,622,https://github.com/braulio94/menu_flutter
+MIBadgeButton-Swift,Swift,iOS custom badge button.,342,https://github.com/mustafaibrahim989/MIBadgeButton-Swift
+Mini-Inventory-and-Sales-Management-System,PHP,An Inventory and Sales Management System written in PHP (codeIgniter) with support for MySQL and Sqlite3 databases,522,https://github.com/amirsanni/Mini-Inventory-and-Sales-Management-System
+minimus,HTML,🌦️ A fully featured production ready Angular weather app (tutorial),628,https://github.com/hamedbaatour/minimus
+mittsu,Ruby,3D Graphics Library for Ruby.,527,https://github.com/danini-the-panini/mittsu
+Moses,Lua,Utility library for functional programming in Lua,635,https://github.com/Yonaba/Moses
+Mozart,Jupyter,An optical music recognition (OMR) system. Converts sheet music to a machine-readable version.,641,https://github.com/aashrafh/Mozart
+mpvKt,Kotlin,"A media player for android, based on mpv-android and built with Jetpack Compose.",810,https://github.com/abdallahmehiz/mpvKt
+multi-container-nginx-react-node-mongo,HCL,"Multi container application with Nginx, React, Node and Mongo DB. This repository also contains Terraform IaC (Infrastructure as Code) for a CICD pipeline to build and push images to DockerHub.",373,https://github.com/LukeMwila/multi-container-nginx-react-node-mongo
+MultiLoader-Template,Java,A template for a Forge + Fabric project setup using a Common source set.,422,https://github.com/jaredlll08/MultiLoader-Template
+music-player,Rust,An extensible music server written in Rust 🚀🎵✨,442,https://github.com/tsirysndr/music-player
+muzika,TypeScript,Elegant music streaming app,310,https://github.com/vixalien/muzika
+MyBrain,Kotlin,"All-in-one productivity app and AI assistant with Tasks, Notes, Calendar, Diary and Bookmarks.",1452,https://github.com/mhss1/MyBrain
+neohtop,Svelte,"💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)",5711,https://github.com/Abdenasser/neohtop
+NetherSX2-patch,HTML,Unofficial Patches for NetherSX2,1047,https://github.com/Trixarian/NetherSX2-patch
+NexoPOS,PHP,"The base version of NexoPOS, which is a web-Based Point Of Sale (POS) System build with Laravel, TailwindCSS, and Vue.Js.",975,https://github.com/Blair2004/NexoPOS
+nexusjs,C++,Nexus.js - The next-gen JavaScript platform,1077,https://github.com/voodooattack/nexusjs
+nginx-ultimate-bad-bot-blocker,Shell,"Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail f…",4205,https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker
+nordic.nvim,Lua,"🌒 Nord for Neovim, but warmer and darker. Supports a variety of plugins and other platforms.",810,https://github.com/AlexvZyl/nordic.nvim
+Notepad3,C++,Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:,5382,https://github.com/rizonesoft/Notepad3
+nudelta,JavaScript,Open source NuPhy Console alternative,541,https://github.com/donn/nudelta
+obsidian-spaced-repetition,TypeScript,Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian,1755,https://github.com/st3v3nmw/obsidian-spaced-repetition
+OnBoardingScreen,Kotlin,create animated onboarding or welcome screen with MotionLayout,511,https://github.com/OmneyaOsman/OnBoardingScreen
+openai,Dart,"Dart/Flutter SDK for ChatGPT and all OpenAI APIs (GPT, Dall-e..)",613,https://github.com/anasfik/openai
+Orin,Java,"Fork of @kabouzied Phonograph, I always wanted to try my hands on Tunzo's material design music player concept which can be found here: https://www.uplabs.com/posts/a-music-player-in-material-desig…",578,https://github.com/aliumujib/Orin
+OTE,C,OSINT Template Engine,534,https://github.com/3nock/OTE
+PercentageChartView,Java,An Android custom view that displays the progress of an ongoing task.,375,https://github.com/RamiJ3mli/PercentageChartView
+petit-dom,JavaScript,minimalist virtual dom library,510,https://github.com/yelouafi/petit-dom
+pglite-fusion,Nix,Embed an SQLite database in your PostgreSQL table. AKA multitenancy has been solved.,766,https://github.com/frectonz/pglite-fusion
+playlistor,Python,🎶Apple Music ↔️ Spotify playlist convertor.,532,https://github.com/akornor/playlistor
+plotnine,Python,A Grammar of Graphics for Python,4131,https://github.com/has2k1/plotnine
+Pokedex,Kotlin,"Pokedex - a Kotlin Multiplatform app, built with Compose multiplatform, Coroutines, Flow, Koin, Ktor, SqlDelight, Decompose, MVIKotlin, and Material 3 based on MVI architecture",727,https://github.com/MohamedRejeb/Pokedex
+prisma-redis-middleware,TypeScript,Prisma Middleware for caching queries in Redis,363,https://github.com/Asjas/prisma-redis-middleware
+project-mulla,JavaScript,Talk to MPESA API via a REST API. Bringing the MPESA G2 API to the 21st century. --,300,https://github.com/kn9ts/project-mulla
+pro-sidebar-template,HTML,Responsive layout with advanced sidebar menu built with SCSS and vanilla Javascript,980,https://github.com/azouaoui-med/pro-sidebar-template
+PS4_Tools,Java,Collection Of Open Source PS4 Tools all in one Library All Written in C#,306,https://github.com/xXxTheDarkprogramerxXx/PS4_Tools
+psl,PHP,"📚 PHP Standard Library - a modern, consistent, centralized, well-typed, non-blocking set of APIs for PHP programmers",1263,https://github.com/azjezz/psl
+pyan,Python,pyan is a Python module that performs static analysis of Python code to determine a call dependency graph between functions and methods. This is different from running the code and seeing which fun…,663,https://github.com/davidfraser/pyan
+pyarabic,Python,pyarabic,458,https://github.com/linuxscout/pyarabic
+python-gsmmodem,Python,"Python module to control a GSM modem attached to the system: send/receive SMS messages, handle calls, etc",391,https://github.com/faucamp/python-gsmmodem
+QT-PyQt-PySide-Custom-Widgets,Python,Awesome custom widgets made for QT Desktop Applications. Simplify your UI development process. These widgets can be used in QT Designer then imported to PySide code.,849,https://github.com/KhamisiKibet/QT-PyQt-PySide-Custom-Widgets
+QuickApp,TypeScript,"ASP.NET Core / Angular startup project template with complete login, user and role management. Plus other useful services for Quick Application Development",1284,https://github.com/emonney/QuickApp
+Rcrawler,R,An R web crawler and scraper,353,https://github.com/salimk/Rcrawler
+reactjs-popup,TypeScript,"React Popup Component - Modals,Tooltips and Menus —  All in one",1807,https://github.com/yjose/reactjs-popup
+react-native-ml-kit,Java,React Native On-Device Machine Learning w/ Google ML Kit,454,https://github.com/a7medev/react-native-ml-kit
+react-pro-sidebar,TypeScript,React Pro Sidebar provides a set of components for creating high level and customizable side navigation,1766,https://github.com/azouaoui-med/react-pro-sidebar
+react-tailwindcss-datepicker,TypeScript,Modern date range picker component for React using Tailwind 3 and dayjs. Alternative to Litepie Datepicker.,578,https://github.com/onesine/react-tailwindcss-datepicker
+reporter,Go,Service that generates a PDF report from a Grafana dashboard,987,https://github.com/IzakMarais/reporter
+responsive_builder,Dart,A set of widgets to make responsive UI building in flutter more readable,505,https://github.com/FilledStacks/responsive_builder
+rpi_lcars,Python,Star Trek LCARS interface for Raspberry Pi using Pygame,669,https://github.com/tobykurien/rpi_lcars
+scaffold-interface,PHP,🚀 A Smart CRUD Generator For Laravel,916,https://github.com/amranidev/scaffold-interface
+ScholarXIV,Dart,"ScholArxiv is an open-source, aesthetic, minimal and AI powered app that allows users to search, read, bookmark, share, download and view summaries of academic papers from the arXiv repository.",852,https://github.com/dagmawibabi/ScholarXIV
+Scrapling,Python,"🕷️ Undetectable, Lightning-Fast, and Adaptive Web Scraping for Python",2671,https://github.com/D4Vinci/Scrapling
+seo,PHP,🐘 Simple PHP library to help developers 🍻 do better on-page SEO optimization 🤖,326,https://github.com/melbahja/seo
+serpl,Rust,"A simple terminal UI for search and replace, ala VS Code.",610,https://github.com/yassinebridi/serpl
+shadcn-extension,TypeScript,"An open source component collection , that extends your ui library , built using shadcn component",1083,https://github.com/BelkacemYerfa/shadcn-extension
+sheldon,Rust,"Fast, configurable, shell plugin manager",1115,https://github.com/rossmacarthur/sheldon
+Shell,C++,Powerful context menu manager for Windows File Explorer,4449,https://github.com/moudey/Shell
+smtp2http,Go,A tiny software that receive a smtp request (email) and send it to the specified webhook as a http post request,526,https://github.com/alash3al/smtp2http
+solargraph-rails,Ruby,Solargraph plugin to add awareness of Rails-specific code,326,https://github.com/iftheshoefritz/solargraph-rails
+spark-ui,TypeScript,"Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion ✨",553,https://github.com/selemondev/spark-ui
+sqler,Go,"write APIs using direct SQL queries with no hassle, let's rethink about SQL",2078,https://github.com/alash3al/sqler
+sql-studio,Rust,"SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB, ClickHouse, Microsoft SQL Server]",2569,https://github.com/frectonz/sql-studio
+stackedit,JavaScript,In-browser Markdown editor,22006,https://github.com/benweet/stackedit
+stackedit.js,JavaScript,Add StackEdit to any website,1107,https://github.com/benweet/stackedit.js
+StateViews,Java,"Create & Show progress, data or error views, the easy way!",373,https://github.com/medyo/StateViews
+story_view,Dart,Story view for apps with stories.,447,https://github.com/blackmann/story_view
+student-management-using-django,Python,A Student Management System Created Using Django,327,https://github.com/jobic10/student-management-using-django
+Sublist3r,Python,Fast subdomains enumeration tool for penetration testers,10126,https://github.com/aboul3la/Sublist3r
+tailwind-tools.nvim,Lua,An unofficial Tailwind CSS integration and tooling for Neovim,475,https://github.com/luckasRanarison/tailwind-tools.nvim
+TcNo-Acc-Switcher,C#,"A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!",1882,https://github.com/TCNOco/TcNo-Acc-Switcher
+textbee,TypeScript,textbee.dev is an opensource and free sms-gatway for sending SMS messages through API or dashboard web interface.,1138,https://github.com/vernu/textbee
+topy,Python,Topology Optimization using Python,500,https://github.com/williamhunter/topy
+transformers-php,PHP,Transformers PHP is a toolkit for PHP developers to add machine learning magic to their projects easily.,611,https://github.com/CodeWithKyrian/transformers-php
+UIElements,C#,Various scripts related to Unity UI Toolkit (UIElements).,377,https://github.com/plyoung/UIElements
+UltimateStarterKit,C++,The Ultimate Starter Kit plugin to speed up development of Unreal Engine games,324,https://github.com/hfjooste/UltimateStarterKit
+URP-LWRP-Shaders,ShaderLab,A Collection of Shader For URP(LWRP) Render Pipeline,652,https://github.com/marcozakaria/URP-LWRP-Shaders
+utron,Go,A lightweight MVC framework for Go(Golang),2219,https://github.com/gernest/utron
+vee-validate,TypeScript,✅ Painless Vue forms,10936,https://github.com/logaretm/vee-validate
+Venocyber-md,JavaScript,Introducing Venocyber md bot your personal chuddybuddy md you were looking for this is most powerful Whatsapp chat bot created to ensure your WhatsApp personal requirements you are all in one ✍️👋👋,370,https://github.com/Kingjux/Venocyber-md
+Video-Call-App-NodeJS,JavaScript,"A conference call implementation using WebRTC, Socket.io and Node.js",665,https://github.com/amirsanni/Video-Call-App-NodeJS
+villus,TypeScript,🏎 A tiny and fast GraphQL client for Vue.js,805,https://github.com/logaretm/villus
+vps-audit,Shell,"lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.",1123,https://github.com/vernu/vps-audit
+wasm_nvim,Rust,Wasm platform for nvim.,307,https://github.com/Borwe/wasm_nvim
+wenk,CSS,😉 Lightweight pure CSS tooltip for the greater good,689,https://github.com/tiaanduplessis/wenk
+WinPaletter,C#,Advanced Windows Appearance Editor,1424,https://github.com/Abdelrhman-AK/WinPaletter
+WooCommerce-REST-API-Client-Library,PHP,A PHP wrapper for the WooCommerce REST API,356,https://github.com/kloon/WooCommerce-REST-API-Client-Library
+wordpress-social-login,PHP,WordPress Social Login,399,https://github.com/miled/wordpress-social-login
+wow,Go,😮❗❗ Wow❗ now my Go commandline app is spinning with 🌈 and 🐴,511,https://github.com/gernest/wow
+xtra,Rust,🎭 A tiny actor framework,331,https://github.com/Restioson/xtra
+yaldash,PHP,👻 It's never been easier to build and customize admin panels. Yah! yaldash is a beautifully designed administration panel for Laravel.,403,https://github.com/getspooky/yaldash
+yorlang,JavaScript,A programming language with yoruba language construct,451,https://github.com/anoniscoding/yorlang
+zune-image,Rust,A fast and memory efficient image library in Rust,364,https://github.com/etemesi254/zune-image
