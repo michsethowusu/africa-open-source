@@ -5,30 +5,18 @@ A curated list of 200+ awesome open-source projects made by African developers.
 If you would like to contribute, please check out our [Contribution Guide](docs/CONTRIBUTING.md).
 
 ## Contents
-- [Python](#python)
-- [Dart](#dart)
-- [JavaScript](#javascript)
-- [C](#c)
-- [TypeScript](#typescript)
-- [PHP](#php)
-- [Go](#go)
-- [Rust](#rust)
-- [Kotlin](#kotlin)
-- [Java](#java)
-- [HTML](#html)
-- [Lua](#lua)
-- [Shell](#shell)
-- [Ruby](#ruby)
-- [Vue](#vue)
-- [Swift](#swift)
-- [Svelte](#svelte)
-- [Shader](#shader)
-- [CSS](#css)
-- [Other](#other)
+
+| Category | Category | Category | Category |
+| :--: | :--: | :--: | :--: |
+| <a href="#python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80"/><br>Python</a> | <a href="#dart"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="80"/><br>Dart</a> | <a href="#javascript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80"/><br>JavaScript</a> | <a href="#c"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80"/><br>C</a> |
+| <a href="#typescript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80"/><br>TypeScript</a> | <a href="#php"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="80"/><br>PHP</a> | <a href="#go"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="80"/><br>Go</a> | <a href="#rust"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="80"/><br>Rust</a> |
+| <a href="#kotlin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="80"/><br>Kotlin</a> | <a href="#java"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80"/><br>Java</a> | <a href="#html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80"/><br>HTML</a> | <a href="#lua"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="80"/><br>Lua</a> |
+| <a href="#shell"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="80"/><br>Shell</a> | <a href="#ruby"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="80"/><br>Ruby</a> | <a href="#vue"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="80"/><br>Vue</a> | <a href="#swift"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="80"/><br>Swift</a> |
+| <a href="#svelte"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="80"/><br>Svelte</a> | <a href="#shader"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Shadertoy_logo.png" width="80"/><br>Shader</a> | <a href="#css"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80"/><br>CSS</a> | <a href="#other"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80"/><br>Other</a> |
 
 ### Python
 
-- [fsociety](https://github.com/Manisso/fsociety) – fsociety Hacking Tools Pack – A Penetration Testing Framework
+- [fsociety](https://github.com/Manisso/fsociety) – fsociety Hacking Tools Pack - A Penetration Testing Framework
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) – Fast subdomains enumeration tool for penetration testers
 - [plotnine](https://github.com/has2k1/plotnine) – A Grammar of Graphics for Python
 - [Scrapling](https://github.com/D4Vinci/Scrapling) – 🕷️ Undetectable, Lightning-Fast, and Adaptive Web Scraping for Python
@@ -41,11 +29,11 @@ If you would like to contribute, please check out our [Contribution Guide](docs/
 - [atbswp](https://github.com/RMPR/atbswp) – A minimalist macro recorder
 - [django-apscheduler](https://github.com/jcass77/django-apscheduler) – APScheduler for Django
 - [rpi_lcars](https://github.com/tobykurien/rpi_lcars) – Star Trek LCARS interface for Raspberry Pi using Pygame
-- [pyan](https://github.com/davidfraser/pyan) – pyan is a Python module that performs static analysis of Python code to determine a call dependency graph between functions and methods. This is different from running the code and seeing which fun…
+- [pyan](https://github.com/davidfraser/pyan) – pyan is a Python module that performs static analysis of Python code to determine a call dependency graph between functions and methods. This is different from running the code and seeing which fun...
 - [Mozart](https://github.com/aashrafh/Mozart) – An optical music recognition (OMR) system. Converts sheet music to a machine-readable version.
-- [MARA_Framework](https://github.com/xtiankisutsa/MARA_Framework) – MARA is a Mobile Application Reverse engineering and Analysis Framework. It is a toolkit that puts together commonly used mobile application reverse engineering and analysis tools to assist in test…
+- [MARA_Framework](https://github.com/xtiankisutsa/MARA_Framework) – MARA is a Mobile Application Reverse engineering and Analysis Framework. It is a toolkit that puts together commonly used mobile application reverse engineering and analysis tools to assist in test...
 - [django-restql](https://github.com/yezyilomo/django-restql) – Turn your API made with Django REST Framework(DRF) into a GraphQL like API.
-- [django-lms](https://github.com/adilmohak/django-lms) – A learning management system using django web framework. Course add and drop, grade and assessment result management, online quiz, report generator, student and lecturers management, dashboard, and…
+- [django-lms](https://github.com/adilmohak/django-lms) – A learning management system using django web framework. Course add and drop, grade and assessment result management, online quiz, report generator, student and lecturers management, dashboard, and...
 - [emotion-recognition-using-speech](https://github.com/x4nth055/emotion-recognition-using-speech) – Building and training Speech Emotion Recognizer that predicts human emotions using Python, Sci-kit learn and Keras
 - [dbus-serialbattery](https://github.com/Louisvdw/dbus-serialbattery) – Battery Monitor driver for serial battery in VenusOS GX systems
 - [playlistor](https://github.com/akornor/playlistor) – 🎶Apple Music ↔️ Spotify playlist convertor.
@@ -61,7 +49,7 @@ If you would like to contribute, please check out our [Contribution Guide](docs/
 - [hubert](https://github.com/bshall/hubert) – HuBERT content encoders for: A Comparison of Discrete and Soft Speech Units for Improved Voice Conversion
 - [DLTA-AI](https://github.com/0ssamaak0/DLTA-AI) – Data Labeling, Tracking and Annotation with AI
 - [student-management-using-django](https://github.com/jobic10/student-management-using-django) – A Student Management System Created Using Django
-- [bane](https://github.com/AlaBouali/bane) – The "bane" Python library stands out as a robust toolkit catering to a wide spectrum of cybersecurity and networking tasks. Its versatile range of functionalities covers various aspects, including …
+- [bane](https://github.com/AlaBouali/bane) – The "bane" Python library stands out as a robust toolkit catering to a wide spectrum of cybersecurity and networking tasks. Its versatile range of functionalities covers various aspects, including ...
 - [Formation](https://github.com/ObaraEmmanuel/Formation) – Tools for building gorgeous graphical user interfaces in tkinter
 
 ### Dart
@@ -119,7 +107,7 @@ If you would like to contribute, please check out our [Contribution Guide](docs/
 - [FilelessPELoader](https://github.com/SaadAhla/FilelessPELoader) – Loading Remote AES Encrypted PE in memory , Decrypted it and run it
 - [apache-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker) – Apache Block Bad Bots, (Referer) Spam Referrer Blocker, Vulnerability Scanners, Malware, Adware, Ransomware, Malicious Sites, Wordpress Theme Detectors and Fail2Ban Jail for Repeat Offenders
 - [OTE](https://github.com/3nock/OTE) – OSINT Template Engine
-- [flutter-open-ui](https://github.com/yunweneric/flutter-open-ui) – Flutter open-source project that's all about pushing the boundaries of User Interfaces! 🌟✨ If you're a Flutter enthusiast or just someone who appreciates stunning UI/UX, this project is tailor-mad…
+- [flutter-open-ui](https://github.com/yunweneric/flutter-open-ui) – Flutter open-source project that's all about pushing the boundaries of User Interfaces! 🌟✨ If you're a Flutter enthusiast or just someone who appreciates stunning UI/UX, this project is tailor-mad...
 - [Aquila](https://github.com/thethumbler/Aquila) – AquilaOS: UNIX-like Operating System
 - [foo_openlyrics](https://github.com/jacquesh/foo_openlyrics) – An open-source lyric display panel for foobar2000
 - [UIElements](https://github.com/plyoung/UIElements) – Various scripts related to Unity UI Toolkit (UIElements).
@@ -130,7 +118,7 @@ If you would like to contribute, please check out our [Contribution Guide](docs/
 ### TypeScript
 
 - [vee-validate](https://github.com/logaretm/vee-validate) – ✅ Painless Vue forms
-- [reactjs-popup](https://github.com/yjose/reactjs-popup) – React Popup Component - Modals,Tooltips and Menus —  All in one
+- [reactjs-popup](https://github.com/yjose/reactjs-popup) – React Popup Component - Modals,Tooltips and Menus -  All in one
 - [react-pro-sidebar](https://github.com/azouaoui-med/react-pro-sidebar) – React Pro Sidebar provides a set of components for creating high level and customizable side navigation
 - [obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) – Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian
 - [QuickApp](https://github.com/emonney/QuickApp) – ASP.NET Core / Angular startup project template with complete login, user and role management. Plus other useful services for Quick Application Development
@@ -142,7 +130,7 @@ If you would like to contribute, please check out our [Contribution Guide](docs/
 - [spark-ui](https://github.com/selemondev/spark-ui) – Experience The Magic Of Animated Components. Crafted With Vue, TypeScript, TailwindCss And Vueuse Motion ✨
 - [prisma-redis-middleware](https://github.com/Asjas/prisma-redis-middleware) – Prisma Middleware for caching queries in Redis
 - [Framer-ground](https://github.com/code-env/Framer-ground) – Elevate your web projects with fine, small animated components.
-- [electron-pos-printer](https://github.com/Hubertformin/electron-pos-printer) – Electron-pos-printer is a plugin that works to ease paper formatting and printing to thermal printers. it currently supports 80mm, 78mm, 76mm, 58mm, 57mm and 44mm printers thermal printers. it is b…
+- [electron-pos-printer](https://github.com/Hubertformin/electron-pos-printer) – Electron-pos-printer is a plugin that works to ease paper formatting and printing to thermal printers. it currently supports 80mm, 78mm, 76mm, 58mm, 57mm and 44mm printers thermal printers. it is b...
 - [muzika](https://github.com/vixalien/muzika) – Elegant music streaming app
 
 ### PHP
@@ -204,7 +192,7 @@ If you would like to contribute, please check out our [Contribution Guide](docs/
 
 ### Java
 
-- [Orin](https://github.com/aliumujib/Orin) – Fork of @kabouzied Phonograph, I always wanted to try my hands on Tunzo's material design music player concept which can be found here: https://www.uplabs.com/posts/a-music-player-in-material-desig…
+- [Orin](https://github.com/aliumujib/Orin) – Fork of @kabouzied Phonograph, I always wanted to try my hands on Tunzo's material design music player concept which can be found here: https://www.uplabs.com/posts/a-music-player-in-material-desig...
 - [react-native-ml-kit](https://github.com/a7medev/react-native-ml-kit) – React Native On-Device Machine Learning w/ Google ML Kit
 - [HBRecorder](https://github.com/HBiSoft/HBRecorder) – Lightweight screen recording Android library
 - [MultiLoader-Template](https://github.com/jaredlll08/MultiLoader-Template) – A template for a Forge + Fabric project setup using a Common source set.
@@ -230,7 +218,7 @@ If you would like to contribute, please check out our [Contribution Guide](docs/
 
 ### Shell
 
-- [nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker) – Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail f…
+- [nginx-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker) – Nginx Block Bad Bots, Spam Referrer Blocker, Vulnerability Scanners, User-Agents, Malware, Adware, Ransomware, Malicious Sites, with anti-DDOS, Wordpress Theme Detector Blocking and Fail2Ban Jail f...
 - [git-recall](https://github.com/Fakerr/git-recall) – An interactive way to peruse your git history from the terminal
 - [vps-audit](https://github.com/vernu/vps-audit) – lightweight, dependency-free bash script for security, performance auditing and infrastructure monitoring of Linux servers.
 - [caddy-docker](https://github.com/abiosoft/caddy-docker) – Docker container for Caddy
